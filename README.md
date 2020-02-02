@@ -1,3 +1,4 @@
 # Hello-Word
- my first repository
-This is an excercise. 
+My first repository.
+
+This is an easy excercise. 
